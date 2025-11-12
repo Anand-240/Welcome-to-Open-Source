@@ -50,10 +50,10 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
         <td align="center">
                 <a href="https://alisolanki.com/">
                     <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;"
-                        alt="Anand Prakash Srivastava" />
+                        alt="Ali Solanki" />
                     <br />
                     <sub>
-                        <b>Anand Prakash Srivastava</b>
+                        <b>Ali Solanki</b>
                     </sub>
                 </a>
             </td>
@@ -61,10 +61,10 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
         <td align="center">
                 <a href="https://github.com/Anand-240">
                     <img src="https://avatars.githubusercontent.com/u/188213371?v=4" width="100px;"
-                        alt="Ali Solanki" />
+                        alt="Anand Prakash Srivastava" />
                     <br />
                     <sub>
-                        <b>Ali Solanki</b>
+                        <b>Anand Prakash Srivastava</b>
                     </sub>
                 </a>
             </td>
